@@ -259,8 +259,8 @@ If you use this model or code in your research, please cite our forthcoming stud
 ```bibtex
 @article{arche_braintumor_cls2026,
   title   = {Parameter-Efficient Multi-Scale Residual Network with Dual Invariant Pooling for Diagnostic Multi-Class Brain Tumor MRI Classification},
-  author  = {ARCHE Research Lab Neuro-Oncology Group},
-  journal = {Biomedical Signal Processing and Control (Under Review)},
+  author  = {Md Ashraful Hossen Akash},
+  target journal = {Biomedical Signal Processing and Control},
   year    = {2026}
 }
 ```
